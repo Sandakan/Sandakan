@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/45460443?v=4" alt="sandakan" width="150" style="border-radius: 50%" /></p>
+
 <h1 align="center">Hi 👋, I'm Sandakan</h1>
 <p align="center">Programming enthusiast who is self-taught, imaginative, and task-driven, with a passion for web design and development, mobile and desktop application development, and animations. Equipped with the ability to troubleshoot simple and complicated issues, as well as grasp project requirements. Expertise in designing user interfaces and implementing new features based on user feedback.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandakan&label=Profile%20views&color=0e75b6&style=flat" alt="sandakan" /> </p>
