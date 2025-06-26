@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandakan" alt="sandakan" /></a> </p>
 
+- 💼 Currently, I’m an Associate Software Engineer at Aleph Technologies (2024–Present), where I contribute to projects like HRM By Alephaz, Dispatch X, Jewelbox, Tuition LMS, and others.
+
+- ⭐ And also working as a Software Engineer @ [Nolas Workspace](https://bewerbung.nolasworkspace.com/en) in Germany.
+
 - 🔭 I’m currently working on [Nora](https://github.com/Sandakan/Nora)
 
 - 📫 How to reach me **<sandakannipunajith@gmail.com>**
